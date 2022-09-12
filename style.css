@@ -131,6 +131,10 @@ table,th,td{
     }
 
     .banner{
-        font-size:larger;
+        font-size:60px;
+    }
+
+    .soon{
+        font-size: 60px;
     }
 }
