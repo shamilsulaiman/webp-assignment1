@@ -96,6 +96,7 @@ a:active{
     font-size: 100px;
     left: 30%;
     color: white;
+    overflow: auto;
 }
 
 table,th,td{
@@ -126,6 +127,10 @@ table,th,td{
         list-style-type:none;
         position:absolute;
         right:15px;
-        font-size: 10px;
+        font-size: 15px;
+    }
+
+    .banner{
+        font-size:larger;
     }
 }
